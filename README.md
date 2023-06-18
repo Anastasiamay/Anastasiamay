@@ -13,7 +13,7 @@
 
 :email: Reach me: nastyamay1530@gmail.com, https://t.me/t365me
 
-:pencil: Know about my experiences [CV](https://career.habr.com/anastasiamay1)
+:pencil: Know about my experiences: [CV](https://career.habr.com/anastasiamay1)
 
 
 ### :paperclip: Languages and Tools :
