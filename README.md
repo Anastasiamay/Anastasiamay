@@ -1,7 +1,4 @@
 ### Hi there, I'm Anastasia
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width="300"/>
-</div>
 
 ## About me
 :bar_chart: Beginner Data Analyst
